@@ -1,0 +1,2 @@
+hall.glb: https://sketchfab.com/3d-models/hogwarts-grand-hall-203784d1e8704cfba3af8a2b224b74ff
+cat.glb: https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36
